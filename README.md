@@ -1,4 +1,9 @@
+## GENERATED IMAGES
 ![alt text](https://github.com/HayatiYrtgl/C-WGAN-GP/blob/main/RESULTS/100_generated.png?raw=true)
+![alt text](https://github.com/HayatiYrtgl/C-WGAN-GP/blob/main/RESULTS/102_generated.png?raw=true)
+![alt text](https://github.com/HayatiYrtgl/C-WGAN-GP/blob/main/RESULTS/65_generated.png?raw=true)
+![alt text](https://github.com/HayatiYrtgl/C-WGAN-GP/blob/main/RESULTS/67_generated.png?raw=true)
+![alt text](https://github.com/HayatiYrtgl/C-WGAN-GP/blob/main/RESULTS/81_generated.png?raw=true)
 ```markdown
 # Conditional WGAN-GP for Image-to-Image Translation
 
