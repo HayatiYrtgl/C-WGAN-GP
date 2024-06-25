@@ -1,3 +1,4 @@
+![alt text](https://github.com/HayatiYrtgl/C-WGAN-GP/tree/main/RESULTS/100_generated.png?raw=true)
 ```markdown
 # Conditional WGAN-GP for Image-to-Image Translation
 
